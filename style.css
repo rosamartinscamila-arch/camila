@@ -1,3 +1,17 @@
 body {
-    background-color: aqua;
+    background-color: rgb(251,255,0);  
+    color:rgb(255,0,0);
+    font-size:60px;
 }
+
+img{
+    width: 200px;
+
+
+.paragrafo{
+    color: black;
+    font-size: 20px;
+}
+
+#pens.comp{
+    font-family: sans-serif;
